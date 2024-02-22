@@ -14,5 +14,5 @@ I'm a developer with a passion for web development, machine learning, computer v
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or have any questions!
 
-![GitHub followers](https://img.shields.io/github/followers/gaswiz?style=social)
+![Konstantinos's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaswiz&show_icons=true&theme=radical)
 
