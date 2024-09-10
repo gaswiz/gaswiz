@@ -5,7 +5,6 @@ I'm a developer with a passion for web development, machine learning, computer v
 ## About Me
 - 💻 Currently focusing on web development projects using HTML, CSS, JavaScript ,Python, and frameworks like React.
 - 🤖 Excited about diving deeper into machine learning and computer vision to build intelligent applications.
-- 🎨 Enjoy exploring graphic design, editing, and animation as a side hobby.
 
 ## Projects
 - **Web Development**: Check out my web development projects showcasing my skills in front-end and back-end development.
