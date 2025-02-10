@@ -31,7 +31,7 @@
 ---
 ## 📫 Connect With Me  
 💼 **LinkedIn:** [Konstantinos Panagiotaropoulos](https://www.linkedin.com/in/kp-18b477267/)  
-📧 **Email:** konstantinos@pandectes.io  
+📧 **Email:** konstantinospanagiotaropoulos@gmail.com
 🌐 **Website:** Coming soon!  
 
 ---
