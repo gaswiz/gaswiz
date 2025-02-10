@@ -13,6 +13,7 @@ I'm a developer with a passion for web development, machine learning, computer v
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or have any questions!
 
+![Konstantino's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Konstantinos&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ![GitHub Snake](https://raw.githubusercontent.com/gaswiz/gaswiz/output/github-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/gaswiz/gaswiz/output/github-snake-dark.svg#gh-dark-mode-only)
