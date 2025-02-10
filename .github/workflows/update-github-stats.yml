@@ -1,0 +1,26 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs every 24 hours
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Fetch GitHub Stats
+        run: |
+          curl -o github-stats.svg "https://github-readme-stats.vercel.app/api?username=gaswiz&theme=radical&show_icons=true&hide_border=true&count_private=true&token=${{ secrets.GITHUB_TOKEN }}"
+          curl -o github-languages.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=gaswiz&theme=radical&show_icons=true&hide_border=true&layout=compact&token=${{ secrets.GITHUB_TOKEN }}"
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "github-actions@github.com"
+          git add github-stats.svg github-languages.svg
+          git commit -m "Updated GitHub Stats"
+          git push
