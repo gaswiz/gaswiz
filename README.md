@@ -15,3 +15,7 @@ Feel free to explore my repositories and reach out if you'd like to collaborate 
 
 ![Konstantinos's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaswiz&show_icons=true&theme=radical)
 
+### 🐍 GitHub Contributions Snake
+
+![GitHub Snake](https://raw.githubusercontent.com/gaswiz/gaswiz/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/gaswiz/gaswiz/output/github-snake-dark.svg#gh-dark-mode-only)
