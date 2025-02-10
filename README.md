@@ -1,20 +1,38 @@
-# Hi there, I'm Konstantinos Panagiotaropoulos! 👋
+# Hi there, I'm Konstantinos Panagiotaropoulos! 👋  
+🚀 Support Engineer @ Pandectes | 📚 CS Student at University of East London | 💡 Passionate About Innovation  
 
-I'm a developer with a passion for web development, machine learning, computer vision, and graphic design. I love creating innovative solutions and bringing ideas to life through code and design.
+---
+## 👨‍💻 About Me  
+- 🎯 I currently work as a **Support Engineer at Pandectes**.  
+- 🎓 **Undergraduate Computer Science student** at the **University of East London**.  
+- 💡 I enjoy **solving problems**, working with **Java, JavaScript, and Python**, and building **web applications**.  
+- 📖 Actively pursuing **certifications** to enhance my skills in **software development & database management**.  
+- 🌍 Always excited to explore new **opportunities in tech & innovation**.  
 
-## About Me
-- 💻 Currently focusing on web development projects using HTML, CSS, JavaScript ,Python, and frameworks like React.
-- 🤖 Excited about diving deeper into machine learning and computer vision to build intelligent applications.
+---
+## 🚀 My Projects  
+🔹 **[P.Y.T.H.I.A.](#)** *(Currently Private, Public in 2025)*  
+*A predictive analytics platform for marketing performance optimization using AI & machine learning.*  
 
-## Projects
-- **Web Development**: Check out my web development projects showcasing my skills in front-end and back-end development.
-- **Machine Learning & Computer Vision**: Explore my experiments and projects in the fields of machine learning and computer vision.
-- **Graphic Design & Animation**: Discover my creative work in graphic design, editing, and animation.
+🔹 **Other Projects Coming Soon!**  
 
-Feel free to explore my repositories and reach out if you'd like to collaborate or have any questions!
+---
+## 📊 GitHub Stats & Tech Stack  
 
-![Konstantinos's Stats](https://github-readme-stats.vercel.app/api?username=Konstantinos&theme=radical&show_icons=true&hide_border=true&count_private=true&token=YOUR_GITHUB_TOKEN)
+### 🔥 **GitHub Activity**
+![Konstantinos' GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaswiz&show_icons=true&theme=radical)  
 
+### 💻 **Top Languages**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gaswiz&layout=compact&theme=radical)  
 
-![GitHub Snake](https://raw.githubusercontent.com/gaswiz/gaswiz/output/github-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/gaswiz/gaswiz/output/github-snake-dark.svg#gh-dark-mode-only)
+### 🏆 **GitHub Trophies**
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gaswiz&theme=darkhub&margin-w=15)  
+
+---
+## 📫 Connect With Me  
+💼 **LinkedIn:** [Konstantinos Panagiotaropoulos](https://www.linkedin.com/in/kp-18b477267/)  
+📧 **Email:** konstantinos@pandectes.io  
+🌐 **Website:** Coming soon!  
+
+---
+💡 *"Technology is best when it brings people together."* 🚀
