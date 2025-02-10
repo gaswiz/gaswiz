@@ -13,8 +13,6 @@ I'm a developer with a passion for web development, machine learning, computer v
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or have any questions!
 
-![Konstantinos's Stats](https://github-readme-stats.vercel.app/api?username=Konstantinos&theme=radical&show_icons=true&hide_border=true&count_private=true)
-![Konstantinos's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Konstantinos&theme=radical&hide_border=true)
 
 ![GitHub Snake](https://raw.githubusercontent.com/gaswiz/gaswiz/output/github-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/gaswiz/gaswiz/output/github-snake-dark.svg#gh-dark-mode-only)
