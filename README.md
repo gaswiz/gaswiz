@@ -18,6 +18,9 @@
 🔹 **[P.Y.T.H.I.A.](https://github.com/gaswiz/pythia-core)**  
 A predictive analytics platform for marketing performance optimization using AI and machine learning.
 
+🔹 **[ServMe](https://github.com/gaswiz/servme)**  
+A mobile restaurant reservation app built with React Native, featuring user authentication, category-based restaurant browsing, and reservation management.
+
 🔹 Other projects coming soon!
 
 ---
