@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=950&color=0EA5E9&center=true&vCenter=true&width=980&lines=Machine+Learning+Engineer+Mindset;Algorithms+%7C+Predictive+Analytics+%7C+Microsoft+Azure;Building+reliable+systems+with+real+business+impact" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=950&color=0EA5E9&center=true&vCenter=true&width=980&lines=AI+Engineer+%7C+Machine+Learning+%7C+Automation;Claude+%7C+Cursor+%7C+Codex+%7C+MCP+%7C+AI+Agents;LLM-powered+workflows+that+ship+to+production;Building+reliable+systems+with+real+business+impact" alt="Typing Intro" />
 </div>
 
 <div align="center">
@@ -24,13 +24,21 @@
         execution and data-driven decision making.
       </p>
       <p>
-        My strongest technical focus areas are <b>Machine Learning</b>, <b>Algorithms</b>, <b>Predictive Analytics</b>,
-        and <b>Microsoft Azure</b>.
+        I work as an <b>AI-native engineer</b>: I design and run <b>agentic workflows</b> with <b>Claude Code</b>,
+        <b>Cursor</b> and <b>OpenAI Codex</b>, connect LLMs to real systems through <b>MCP</b>, and turn repetitive
+        engineering and support work into reliable <b>automations</b>.
+      </p>
+      <p>
+        Core focus: <b>AI Engineering &amp; Automation</b>, <b>Machine Learning</b>, <b>Algorithms</b>,
+        <b>Predictive Analytics</b> and <b>Microsoft Azure</b>.
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>Current Technical Direction</h3>
       <ul>
+        <li>LLM agents, tool use and MCP integrations</li>
+        <li>AI-assisted development workflows for engineering teams</li>
+        <li>Automating support and operations with AI</li>
         <li>Production-grade ML workflows and evaluation</li>
         <li>Algorithmic optimization and complexity-aware implementations</li>
         <li>Forecasting systems for predictive business insights</li>
@@ -45,6 +53,8 @@
 <h2>Core Strengths</h2>
 
 <div align="left">
+  <img src="https://img.shields.io/badge/AI%20Engineering-0f172a?style=for-the-badge&logo=anthropic&logoColor=D97757" alt="AI Engineering" />
+  <img src="https://img.shields.io/badge/AI%20Automation-0f172a?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="AI Automation" />
   <img src="https://img.shields.io/badge/Machine%20Learning-0f172a?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="ML" />
   <img src="https://img.shields.io/badge/Algorithms-0f172a?style=for-the-badge&logo=codeforces&logoColor=white" alt="Algorithms" />
   <img src="https://img.shields.io/badge/Predictive%20Analytics-0f172a?style=for-the-badge&logo=databricks&logoColor=FF3621" alt="Predictive Analytics" />
@@ -58,6 +68,16 @@
     <th align="left">Domain</th>
     <th align="left">Capability</th>
     <th align="left">Practical Value</th>
+  </tr>
+  <tr>
+    <td><b>AI Engineering</b></td>
+    <td>LLM agents, tool use, MCP servers, prompt and context design</td>
+    <td>AI that acts on real systems, not just chat</td>
+  </tr>
+  <tr>
+    <td><b>AI Automation</b></td>
+    <td>Agentic workflows in CI, scheduled agents, AI-driven triage</td>
+    <td>Less manual work, faster delivery and support</td>
   </tr>
   <tr>
     <td><b>Machine Learning</b></td>
@@ -80,6 +100,115 @@
     <td>Operationally stable and maintainable services</td>
   </tr>
 </table>
+
+---
+
+<h2>AI Tools &amp; Automation</h2>
+
+<p>
+  <img src="https://img.shields.io/badge/Claude%20Code-191919?style=for-the-badge&logo=claude&logoColor=D97757" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Anthropic%20API-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic API" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/OpenAI%20Codex-10A37F?style=for-the-badge" alt="OpenAI Codex" />
+  <img src="https://img.shields.io/badge/MCP-0f172a?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</p>
+
+<p>
+  I treat AI coding agents as part of the engineering system: configured, versioned, reviewed and measured,
+  the same way as any other production tool.
+</p>
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Claude</h3>
+      <ul>
+        <li><b>Claude Code</b> for multi-step, repo-wide work: planning, refactors, debugging, tests</li>
+        <li><b>CLAUDE.md</b> project memory, custom <b>skills</b>, slash commands and <b>subagents</b></li>
+        <li><b>Hooks</b> and permission rules for safe, guard-railed automation</li>
+        <li><b>MCP servers</b> connecting Claude to GitHub, Slack, docs, databases and internal APIs</li>
+        <li><b>Claude API / Agent SDK</b>: tool use, structured output, prompt caching, custom agents</li>
+        <li>Headless Claude Code in CI for PR review and automated fixes</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Cursor</h3>
+      <ul>
+        <li><b>Agent mode</b> for feature work across multiple files</li>
+        <li>Project <b>rules</b> (<code>.cursor/rules</code>) encoding team conventions and architecture</li>
+        <li>Codebase-aware context: indexing, <code>@</code>-references, docs</li>
+        <li><b>MCP</b> integrations for live data and tools inside the editor</li>
+        <li><b>Background agents</b> and Bugbot-style AI code review on PRs</li>
+        <li>Fast inline edits and Tab completion for day-to-day flow</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>OpenAI Codex</h3>
+      <ul>
+        <li><b>Codex CLI</b> for terminal-first agentic coding</li>
+        <li><b>AGENTS.md</b> instructions for consistent agent behaviour per repo</li>
+        <li><b>Codex cloud</b> tasks running in parallel sandboxes</li>
+        <li>Automated <b>PR review</b> and fixes through the GitHub integration</li>
+        <li>Sandbox and approval modes tuned for safe autonomy</li>
+        <li>OpenAI API: function calling, structured outputs, evals</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<h3>Solutions I Build</h3>
+
+<table width="100%">
+  <tr>
+    <th align="left">Solution</th>
+    <th align="left">How</th>
+    <th align="left">Business Value</th>
+  </tr>
+  <tr>
+    <td><b>AI-assisted development setup</b></td>
+    <td>Shared <code>CLAUDE.md</code> / <code>AGENTS.md</code> / Cursor rules, skills, hooks, MCP config</td>
+    <td>Whole team gets consistent, safe and faster AI output</td>
+  </tr>
+  <tr>
+    <td><b>Custom MCP servers</b></td>
+    <td>Expose internal APIs, databases and tools to LLM agents with scoped permissions</td>
+    <td>AI agents work with company data securely</td>
+  </tr>
+  <tr>
+    <td><b>Support &amp; ops automation</b></td>
+    <td>LLM ticket triage, log/incident investigation, drafted replies, knowledge-base search</td>
+    <td>Shorter resolution times, less repetitive work</td>
+  </tr>
+  <tr>
+    <td><b>AI in CI/CD</b></td>
+    <td>Agents in GitHub Actions for PR review, test generation, issue-to-PR fixes</td>
+    <td>Faster reviews and higher code quality</td>
+  </tr>
+  <tr>
+    <td><b>LLM-powered features</b></td>
+    <td>Tool use, RAG, structured output, prompt caching, model selection, evals</td>
+    <td>Reliable AI features at controlled cost</td>
+  </tr>
+  <tr>
+    <td><b>Scheduled AI agents</b></td>
+    <td>Recurring agents for reports, monitoring, dependency and data checks</td>
+    <td>Routine work runs on its own, with a human in the loop</td>
+  </tr>
+</table>
+
+<details>
+  <summary><b>How I work with AI agents</b></summary>
+  <br/>
+  <ul>
+    <li><b>Context first:</b> clear project instructions, conventions and examples so agents get it right the first time.</li>
+    <li><b>Plan, then execute:</b> agents propose a plan, I review it, then they implement and verify.</li>
+    <li><b>Verification built in:</b> tests, type checks and linters run in the agent loop; nothing ships unreviewed.</li>
+    <li><b>Safe by default:</b> least-privilege tool access, sandboxing, approval gates and no secrets in prompts.</li>
+    <li><b>Parallel agents:</b> independent tasks split across subagents, worktrees or cloud sessions.</li>
+    <li><b>Right model for the job:</b> balance capability, latency and cost per task.</li>
+  </ul>
+</details>
 
 ---
 
@@ -158,6 +287,7 @@
 <h2>2026 Engineering Goals</h2>
 
 <ol>
+  <li>Ship more agentic AI solutions and custom MCP integrations for real business workflows.</li>
   <li>Deploy more production-ready ML systems with clear success metrics.</li>
   <li>Deepen advanced algorithmic design for high-scale problem solving.</li>
   <li>Expand Azure architecture and operational deployment capability.</li>
